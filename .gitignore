@@ -1,0 +1,12 @@
+# Compilation outputs
+bin/
+*.class
+
+# IDE and OS files
+.idea/
+.project
+.classpath
+.settings/
+*.log
+Thumbs.db
+.DS_Store

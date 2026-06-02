@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"App"},{"p":"<Unnamed>","l":"DiagnosisResult"},{"p":"<Unnamed>","l":"Launcher"},{"p":"<Unnamed>","l":"MalariaInferenceEngine"},{"p":"<Unnamed>","l":"PatientData"},{"p":"<Unnamed>","l":"DiagnosisResult.Risk"},{"p":"<Unnamed>","l":"ValidationException"}];updateSearchResults();
