@@ -6,9 +6,9 @@ A JavaFX-based clinical decision support system (expert system) that prompts use
 | Name | Registration Number |
 | :--- | :--- |
 | Ammar Ahmad | CIS/STE/23/1100 |
-| Muhammad Ali Garba | CIS/STE/23/1087 |
+| Muhammad Ali Garba | CIS/STE/23/1084 |
 | Umar Garba Yunusa | CIS/STE/23/1098 |
-| Suleiman Abdallah | CIS/STE/23/1042 |
+| Suleiman Abdallah Abdullahi | CIS/STE/23/1042 |
 | Abubakar Kabir Muhammad | CIS/STE/23/1037 |
 | Ibrahim Salman Lawal | CIS/STE/23/1005 |
 | Mansur Abubakar Tofa | CIS/STE/23/1104 |
