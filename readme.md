@@ -2,6 +2,21 @@
 
 A JavaFX-based clinical decision support system (expert system) that prompts users with questions about demographics, epidemiological risk factors (travel), and clinical symptoms, and then uses a rule-based inference engine to evaluate the likelihood and severity of malaria.
 
+### 👥 Group 7 Members
+| Name | Registration Number |
+| :--- | :--- |
+| Ammar Ahmad | CIS/STE/23/1100 |
+| Muhammad Ali Garba | CIS/STE/23/1087 |
+| Umar Garba Yunusa | CIS/STE/23/1098 |
+| Suleiman Abdallah | CIS/STE/23/1042 |
+| Abubakar Kabir Muhammad | CIS/STE/23/1037 |
+| Ibrahim Salman Lawal | CIS/STE/23/1005 |
+| Mansur Abubakar Tofa | CIS/STE/23/1104 |
+| Abdulsalam Maru Muhammad | CIS/STE/23/1073 |
+| Ahmad Shuaib Danladi | CIS/STE/23/1103 |
+| Faruq Abdulrahman Ajitata | CIS/STE/22/1193 |
+| Muhammad Nasir Lawal | CIS/STE/23/1045 |
+
 ---
 
 ## 📋 Table of Contents
