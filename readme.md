@@ -11,6 +11,7 @@ A JavaFX-based clinical decision support system (expert system) that prompts use
 | Suleiman Abdallah Abdullahi | CIS/STE/23/1042 |
 | Abubakar Kabir Muhammad | CIS/STE/23/1037 |
 | Ibrahim Salman Lawal | CIS/STE/23/1005 |
+| Ibrahim Abdullahi | CIS/STE/23/1043 |
 | Mansur Abubakar Tofa | CIS/STE/23/1104 |
 | Abdulsalam Maru Muhammad | CIS/STE/23/1073 |
 | Ahmad Shuaib Danladi | CIS/STE/23/1103 |
